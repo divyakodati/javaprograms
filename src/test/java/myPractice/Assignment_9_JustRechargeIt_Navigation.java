@@ -1,10 +1,10 @@
-package Practice;
+package myPractice;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.edge.EdgeDriver;
 
-public class assignment_9_justrechargeit_Navigation {
+public class Assignment_9_JustRechargeIt_Navigation {
 
 	public static void main(String[] args) throws Exception {
 		WebDriver driver;
